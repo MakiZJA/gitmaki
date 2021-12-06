@@ -1,4 +1,5 @@
-//Defining express consts and creating a server port. Then checking if the server is working
+/*Defining express consts and creating a server port. 
+Then checking if the server is working*/
 const express = require("express");
 const app = express();
 
